@@ -1,4 +1,9 @@
 {
+  "compilerOptions": {
+    "sourceMap": true,
+    "declarationMap": true,
+    "inlineSources": true
+  },
   "extends": "./tsconfig.json",
   // Copied from tsconfig.json to not overwrite.
   "exclude": [

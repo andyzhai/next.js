@@ -1,6 +1,7 @@
 {
   "extends": "../../tsconfig-tsec.json",
   "compilerOptions": {
+    "sourceMap": true,
     "strict": true,
     "stripInternal": true,
     "esModuleInterop": true,
